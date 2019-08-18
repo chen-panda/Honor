@@ -1,0 +1,5 @@
+1|°²ç÷À­|/img/hero/tx/w_ajl.jpg|/img/rw/aql.png|/img/rw/aql_jn.png
+2|±âÈµ|/img/hero/tx/w_bq.jpg|/img/rw/bq.png|/img/rw/bq_jn.png
+3|²Ü²Ù|/img/hero/tx/w_cc.jpg|/img/rw/cc.png|/img/rw/cc_jn.png
+4|µÒÈÊ½Ü|/img/hero/tx/w_drj.jpg|/img/rw/drj.png|/img/rw/drj_jn.png
+5|¹ØÓð|/img/hero/tx/w_gy.jpg|/img/rw/gy.jpg|/img/rw/gy_jn.png
